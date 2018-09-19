@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+THANOS CAR THANOS CAR THANOS CAR
 Use the left arrow to go back!
